@@ -17,7 +17,7 @@
 NAME = 'ZenPacks.Ironport.PerformanceGraphs'
 VERSION = '0.8'
 AUTHOR = 'Jason McNeil'
-LICENSE = ''
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.Ironport']
 PACKAGES = ['ZenPacks', 'ZenPacks.Ironport', 'ZenPacks.Ironport.PerformanceGraphs']
 INSTALL_REQUIRES = []
